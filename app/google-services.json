@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "691640838395",
+    "firebase_url": "https://eatoko-87170.firebaseio.com",
+    "project_id": "eatoko-87170",
+    "storage_bucket": "eatoko-87170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691640838395:android:45fa74af94e1c162",
+        "android_client_info": {
+          "package_name": "com.eatoko.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691640838395-4ctbrsjqo6558j2e1ti8kfoltn124fbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatoko.id",
+            "certificate_hash": "df81f2cd3612c5007145fb02b69751ed1132eea9"
+          }
+        },
+        {
+          "client_id": "691640838395-r5d8eepg1jnl7ml3j9d5qrj96nc130ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTX1qoL8LXdzlmoeKAObiuweQQLywwkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691640838395-r5d8eepg1jnl7ml3j9d5qrj96nc130ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
